@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD of Statistics and Artificial Intelligence
+role: PhD of Statistics 
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -38,7 +38,7 @@ education:
   courses:
     - course: PhD in Statistics
       institution: The University of Hong Kong
-      year: 2012
+      year: current
     - course: Master in Statistics
       institution: University of Science and Technology of China
       year: 2020
