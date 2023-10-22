@@ -17,34 +17,34 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD of Artificial Intelligence
+role: PhD of Statistics and Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: The University of Hong Kong
+    url: https://www.hku.hk
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include random matrix theory, deep learning theory, optimization, high dimension statistics
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning
+  - Learning Theory
+  - Random Matrix Theory
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in Statistics
+      institution: The University of Hong Kong
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Master in Statistics
+      institution: University of Science and Technology of China
+      year: 2020
+    - course: BSc in Statistics
+      institution: University of Science and Technology of China
+      year: 2018
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -56,35 +56,26 @@ skills:
       percent: 80
       icon: python
       icon_pack: fab
-    - name: Data Science
+    - name: R
       description: ''
-      percent: 100
-      icon: chart-line
-      icon_pack: fas
-    - name: SQL
-      description: ''
-      percent: 40
-      icon: database
+      percent: 80
+      icon: R
       icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Table tennis
         description: ''
-        percent: 60
-        icon: person-hiking
+        percent: 80
+        icon: table tennis
         icon_pack: fas
       - name: Cats
         description: ''
         percent: 100
         icon: cat
         icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera-retro
-        icon_pack: fas
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -120,5 +111,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm now a PhD student in the Department of Statistics and Actuarial Science at the University of Hong Kong. I'm passionate about deep learning theory and high dimension statistics. Before coming to the University of Hong Kong, I completed my master's degree at The University of Science and Technology of China and gained valuable experience and expertise in Stochastic Differential Equations and Deep Learning. Now, as a PhD student, I'm continuing to pursue my research interests and expand my knowledge in the field of statistics and machine learning. On this website, you'll find information about my research and publications. Thank you for visiting, and I look forward to sharing my work with you!
 {style="text-align: justify;"}
