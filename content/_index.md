@@ -51,6 +51,16 @@ sections:
     design:
       columns: '1'
   - block: collection
+    id: News
+    content:
+      title: Recent News
+      filters:
+        folders:
+          - News
+    design:
+      columns: '2'
+      view: compact
+  - block: collection
     id: posts
     content:
       title: Recent Posts
@@ -129,16 +139,6 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: collection
-    id: News
-    content:
-      title: Recent News
-      filters:
-        folders:
-          - News
-    design:
-      columns: '2'
-      view: compact
   - block: tag_cloud
     content:
       title: Popular Topics
