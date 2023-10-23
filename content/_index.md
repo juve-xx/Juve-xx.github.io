@@ -51,16 +51,6 @@ sections:
     design:
       columns: '1'
   - block: collection
-    id: News
-    content:
-      title: Recent News
-      filters:
-        folders:
-          - News
-    design:
-      columns: '2'
-      view: compact
-  - block: collection
     id: posts
     content:
       title: Recent Posts
@@ -115,16 +105,6 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
   - block: collection
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
-  - block: collection
     id: featured
     content:
       title: Recent Publications
@@ -139,6 +119,16 @@ sections:
     design:
       columns: '2'
       view: citation
+  - block: collection
+    id: News
+    content:
+      title: Recent News
+      filters:
+        folders:
+          - News
+    design:
+      columns: '2'
+      view: compact
   - block: tag_cloud
     content:
       title: Popular Topics
