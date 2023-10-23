@@ -38,12 +38,8 @@ categories:
   - Demo
 ---
 
-```python
-import libr
-print('hello')
-```
 
-## Overview
+## Heavy tail phenomenon
 
 1. Indication of the poor quality in the training data or the poor ability in the whole system. The emergence of Heavy Tail can be treated as an alarm for these hidden and problematic issues in the network.
 2. Indication of the poor quality in the training data or the poor ability in the whole system. The emergence of Heavy Tail can be treated as an alarm for these hidden and problematic issues in the network.
