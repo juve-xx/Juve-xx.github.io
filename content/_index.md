@@ -51,6 +51,16 @@ sections:
     design:
       columns: '1'
   - block: collection
+    id: News
+    content:
+      title: Recent News
+      filters:
+        folders:
+          - News
+    design:
+      columns: '2'
+      view: compact
+  - block: collection
     id: posts
     content:
       title: Recent Posts
@@ -107,7 +117,7 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Recent Publications
+      title: Publications and Preprints
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
@@ -119,16 +129,6 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: collection
-    id: News
-    content:
-      title: Recent News
-      filters:
-        folders:
-          - News
-    design:
-      columns: '2'
-      view: compact
   - block: contact
     id: contact
     content:
