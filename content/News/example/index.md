@@ -25,8 +25,7 @@ url_pdf: ''
 url_slides: 'static/uploads/resume.pdf'
 url_video: ''
 
-slides: 
-  - example
+slides: example
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
