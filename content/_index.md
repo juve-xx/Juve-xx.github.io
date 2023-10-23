@@ -130,7 +130,7 @@ sections:
       columns: '2'
       view: citation
   - block: collection
-    id: talks
+    id: News
     content:
       title: Recent News
       filters:
