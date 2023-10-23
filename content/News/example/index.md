@@ -27,7 +27,7 @@ image:
 
 url_code: ''
 url_pdf: ''
-url_slides: ''
+url_slides: 'static/uploads/resume.pdf'
 url_video: ''
 
 # Markdown Slides (optional).
