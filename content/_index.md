@@ -165,12 +165,12 @@ sections:
       columns: '2'
       view: citation
   - block: collection
-    id: talks
+    id: News
     content:
-      title: Recent & Upcoming Talks
+      title: Recent News
       filters:
         folders:
-          - event
+          - News
     design:
       columns: '2'
       view: compact
