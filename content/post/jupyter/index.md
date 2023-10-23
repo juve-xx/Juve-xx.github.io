@@ -1,9 +1,10 @@
 ---
-title: Display Jupyter Notebooks with Academic
+title: Spectral Criterion for Early Stopping
 subtitle: Learn how to blog in Academic using Jupyter notebooks
 summary: Learn how to blog in Academic using Jupyter notebooks
 authors:
-  - admin
+  - Xuran Meng
+  - Jianfeng Yao
 tags: []
 categories: []
 projects: []
