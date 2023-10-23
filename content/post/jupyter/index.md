@@ -1,7 +1,7 @@
 ---
 title: Spectral Criterion for Early Stopping
-subtitle: Learn how to blog in Academic using Jupyter notebooks
-summary: Learn how to blog in Academic using Jupyter notebooks
+subtitle: From heavy tail phenomenon in weight matrices
+summary: Learn the heavy tail phenomenon and propose spectral criterion based on it.
 authors:
   - Xuran Meng
   - Jianfeng Yao
