@@ -105,7 +105,6 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
   - block: collection
-    id: featured
     content:
       title: Featured Publications
       filters:
@@ -116,6 +115,7 @@ sections:
       columns: '2'
       view: card
   - block: collection
+    id: featured
     content:
       title: Recent Publications
       text: |-
