@@ -34,7 +34,7 @@ url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_dataset: '#'
 url_poster: '#'
 url_project: ''
-url_slides: 'http://arxiv.org/pdf/1512.04133v1'
+url_slides: ''
 url_source: '#'
 url_video: '#'
 
