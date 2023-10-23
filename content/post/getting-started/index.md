@@ -49,8 +49,3 @@ print('hello')
 2. Indication of the poor quality in the training data or the poor ability in the whole system. The emergence of Heavy Tail can be treated as an alarm for these hidden and problematic issues in the network.
 
 
-## License
-
-Copyright 2016-present [George Cushen](https://georgecushen.com).
-
-Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md) license.
